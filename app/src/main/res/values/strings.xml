@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Running</string>
+    <string name="your_runs">Sus Corridas</string>
+    <string name="statistics">Estadísticas</string>
+    <string name="settings">Configuración</string>
+    <string-array name="filter_options">
+        <item>Fecha</item>
+        <item>Duración</item>
+        <item>Distancia</item>
+        <item>Velocidad Promedio</item>
+        <item>Calorias Quemadas</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Google Maps Key</string>
+    <string name="start_text">Iniciar</string>
+    <string name="stop_text">Detener</string>
+</resources>
